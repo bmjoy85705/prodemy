@@ -1,0 +1,23 @@
+.header a {
+    margin: 5px;
+    text-decoration: none;
+   
+    
+}
+.header a:hover{
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+}
+.header-title{
+    text-align: center;
+}
+.header{
+    background-color: orangered;
+}
+.header nav{
+    background-color: papayawhip;
+    line-height: 30px;
+    font-size: 20px;
+
+}
